@@ -1,6 +1,8 @@
 # Global_Terrorism_Report
 
  ### Global Terrorism Trends and Patterns (1970-2017)
+
+ ![](https://github.com/bellaTHEanalyst/Global_Terrorism_Report/blob/main/global%20terrorism%20dashboard.jpg)
  
 ## Introduction:
 This report presents an analysis of global terrorism trends and patterns based on data covering the period from 1970 to 2017. 
@@ -57,9 +59,9 @@ Narratives and Insights:
 •	The analysis provides compelling narratives and insights into the evolving landscape of terrorism.
 
 •	Key findings emphasize the need for:
-o	Effective counter-terrorism strategies: Tailored to specific regional contexts and emerging trends.
-o	Resource allocation: Prioritizing areas of heightened vulnerability based on data-driven insights.
-o	International collaboration: Sharing information and expertise to combat the global threat of terrorism.
+-  Effective counter-terrorism strategies: Tailored to specific regional contexts and emerging trends.
+- 	Resource allocation: Prioritizing areas of heightened vulnerability based on data-driven insights.
+- International collaboration: Sharing information and expertise to combat the global threat of terrorism.
 
 ## Conclusion:
 This report provides valuable information for policymakers, security analysts, and researchers to gain a deeper understanding of global terrorism patterns and trends. By leveraging data insights, we can develop more effective strategies to ensure the safety and security of our communities.
