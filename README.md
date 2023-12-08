@@ -54,7 +54,7 @@ These include:
 
 •	Interactive slicers and filters allow users to explore the data dynamically and focus on specific areas of interest.
 
-Narratives and Insights:
+## Narratives and Insights:
 
 •	The analysis provides compelling narratives and insights into the evolving landscape of terrorism.
 
