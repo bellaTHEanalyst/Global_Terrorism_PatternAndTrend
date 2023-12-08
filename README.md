@@ -48,7 +48,21 @@ These include:
 
 •	Attack locations: Map with markers indicating attack locations.
 
-•	Attack types and weapons: Charts illustrating the distribution of attack types and weapons used.
+## Additional Features:
 
-•	Casualties by region: Charts comparing casualties across different regions.
+•	Interactive slicers and filters allow users to explore the data dynamically and focus on specific areas of interest.
+
+Narratives and Insights:
+
+•	The analysis provides compelling narratives and insights into the evolving landscape of terrorism.
+
+•	Key findings emphasize the need for:
+o	Effective counter-terrorism strategies: Tailored to specific regional contexts and emerging trends.
+o	Resource allocation: Prioritizing areas of heightened vulnerability based on data-driven insights.
+o	International collaboration: Sharing information and expertise to combat the global threat of terrorism.
+
+## Conclusion:
+This report provides valuable information for policymakers, security analysts, and researchers to gain a deeper understanding of global terrorism patterns and trends. By leveraging data insights, we can develop more effective strategies to ensure the safety and security of our communities.
+
+ 
 
