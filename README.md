@@ -1,4 +1,4 @@
-# Global_Terrorism_Report
+# TASK 1
 
  ### Global Terrorism Trends and Patterns (1970-2017)
 
@@ -66,5 +66,23 @@ These include:
 ## Conclusion:
 This report provides valuable information for policymakers, security analysts, and researchers to gain a deeper understanding of global terrorism patterns and trends. By leveraging data insights, we can develop more effective strategies to ensure the safety and security of our communities.
 
+
+# TASK 2
+
+## Power BI Dashboard Creation -COVID-19 India Dashboars
+
+## Task Description:
+The COVID-19 Daily Cases dataset provides information on the daily reported COVID-19 cases, including the number ofconfirmed cases, deaths, recoveries, and testing data. The task is to create a Power BI dashboard that offers visualizations and insights into the COVID-19 pandemics progression and impact.
+
+**Data Source** InternCareer
+
+. Data Import and Preparation:
+- Imported the COVID-19  dataset into Power BI.
+- Cleaned the data to handle any missing values and ensure consistency.
+- Set up the data for time series analysis.
+  
+2. Daily Case Trends:
+- Create visualization that displays daily trends in confirmed cases, deaths, recoveries over time
+ - Created visualization to display dosage administred and vaccine types
  
 
