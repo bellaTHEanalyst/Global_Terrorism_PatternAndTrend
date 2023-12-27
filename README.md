@@ -69,7 +69,18 @@ This report provides valuable information for policymakers, security analysts, a
 
 # TASK 2
 
-## Power BI Dashboard Creation -COVID-19 India Dashboars
+## Power BI Dashboard Creation -COVID-19 India Dashboard
+
+
+ ![](https://github.com/bellaTHEanalyst/Task-INTERNCAREER/blob/main/Covid19India%20dashboard.jpg)
+
+
+India's COVID-19 dashboard paints a sobering picture of a nation grappling with the immense scale of the pandemic. With over 5.5 billion total confirmed cases, it's a stark reminder of the virus's relentless hold. Yet, amidst the vast numbers, lies a narrative of immense struggle, resilience, and a glimmer of hope.
+
+73 million deaths represent the devastating human cost, each number a story of loss and heartbreak. 5 billion infections paint a picture of a nation battered by an unprecedented wave of illness. But within this darkness, we find a beacon of hope in the 5 billion individuals who have overcome the virus. This immense figure speaks of tireless frontline efforts, the strength of a nation's spirit, and the power of scientific advancements.
+
+3 billion samples tested reveal the relentless pursuit of understanding and control. It's a testament to the dedication of healthcare workers, the adoption of testing technologies, and a collective desire to combat the invisible enemy.
+
 
 ## Task Description:
 The COVID-19 Daily Cases dataset provides information on the daily reported COVID-19 cases, including the number ofconfirmed cases, deaths, recoveries, and testing data. The task is to create a Power BI dashboard that offers visualizations and insights into the COVID-19 pandemics progression and impact.
@@ -84,5 +95,31 @@ The COVID-19 Daily Cases dataset provides information on the daily reported COVI
 2. Daily Case Trends:
 - Create visualization that displays daily trends in confirmed cases, deaths, recoveries over time
  - Created visualization to display dosage administred and vaccine types
+
+ ## ANALYSIS
+ 
+ ![](https://github.com/bellaTHEanalyst/Task-INTERNCAREER/blob/main/covid%2019%20timeseries.jpg)
+
+ 
+While India's first COVID-19 case emerged in February 2020, its initial spread was relatively slow. By March 14, only 84 cases and 2 deaths were recorded. However, the virus soon underwent an exponential surge, climbing from hundreds to thousands, and ultimately peaking at a staggering 32 million confirmed cases on August 11. Thankfully, India boasted a high cure rate, with over 31 million recoveries. Yet, the pandemic's toll remains significant, with over 429,000 lives lost. This data paints a vivid picture of a nation battling a relentless wave of infections, punctuated by glimpses of hope and resilience in the face of immense human cost.
+
+![](https://github.com/bellaTHEanalyst/Task-INTERNCAREER/blob/main/covid%20vaccine%20administreed.jpg)
+
+The most administered Vaccine was Covishield
+
+![](https://github.com/bellaTHEanalyst/Task-INTERNCAREER/blob/main/Covid%20dose%20administered.jpg)
+
+The first dose was administered the most 
+
+![](https://github.com/bellaTHEanalyst/Task-INTERNCAREER/blob/main/Covid%20gender.jpg)
+
+Men took the most Vaccine
+
+
+Looking ahead, the fight is far from over. The dashboard serves as a stark reminder of the ongoing need for vigilance, continued healthcare efforts, and global cooperation. However, it also whispers of hope, in the millions who have recovered, the tireless work of countless individuals, and the unwavering human spirit.
+
+India's COVID-19 dashboard is not just a collection of numbers; it's a chronicle of a nation's resilience, a testament to the human spirit, and a call to action for a safer, healthier future.
+
+
  
 
