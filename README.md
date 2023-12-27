@@ -71,9 +71,7 @@ This report provides valuable information for policymakers, security analysts, a
 
 ## Power BI Dashboard Creation -COVID-19 India Dashboard
 
-
  ![](https://github.com/bellaTHEanalyst/Task-INTERNCAREER/blob/main/Covid19India%20dashboard.jpg)
-
 
 India's COVID-19 dashboard paints a sobering picture of a nation grappling with the immense scale of the pandemic. With over 5.5 billion total confirmed cases, it's a stark reminder of the virus's relentless hold. Yet, amidst the vast numbers, lies a narrative of immense struggle, resilience, and a glimmer of hope.
 
